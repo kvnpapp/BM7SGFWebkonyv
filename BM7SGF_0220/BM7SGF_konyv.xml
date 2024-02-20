@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BM7SGF>
+    <konyvek>
+        <konyv>
+            <cim>PHP, MySQL &amp; JavaScript : [7 könyv 1-ben]</cim>
+            <szerzo>Blum, Richard</szerzo>
+            <kiadas_eve>2020</kiadas_eve>
+			<ar>8500</ar>
+        </konyv>
+        <konyv>
+            <cim>A világháló lehetőségei : interaktív Weblapok készítése : [JavaScript 1.2, HTML 4]</cim>
+            <szerzo>Bócz Péter</szerzo>
+            <kiadas_eve>1999</kiadas_eve>
+			<ar>2990</ar>
+        </konyv>
+        <konyv>
+            <cim>Javascript webfejlesztőknek : alkalmazások közvetlen beépítése HTML kódba</cim>
+            <szerzo>Barrett, Daniel J.</szerzo>
+            <kiadas_eve>2003</kiadas_eve>
+			<ar>3990</ar>
+        </konyv>
+    </konyvek>
+</BM7SGF>
