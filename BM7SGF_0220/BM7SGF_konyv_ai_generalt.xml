@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>JavaScript: The Good Parts</title>
+        <author>Douglas Crockford</author>
+        <year>2008</year>
+    </book>
+    <book>
+        <title>Eloquent JavaScript</title>
+        <author>Marijn Haverbeke</author>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>You Don't Know JS</title>
+        <author>Kyle Simpson</author>
+        <year>2014</year>
+    </book>
+</books>
