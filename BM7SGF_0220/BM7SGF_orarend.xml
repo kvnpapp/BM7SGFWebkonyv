@@ -1,0 +1,54 @@
+<PK_orarend>
+    <ora>
+        <kezdet>2024-02-19 10:00</kezdet>
+        <veg>2024-02-19 13:45</veg>
+        <nev>Valószínűségszámítás és statisztika (THE_00566_N_5_K)</nev>
+        <helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-20 12:15</kezdet>
+        <veg>2024-02-20 13:45</veg>
+        <nev>Webkönyvtárak (THE_00583_N_5_G)</nev>
+        <helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-20 16:00</kezdet>
+        <veg>2024-02-20 17:30</veg>
+        <nev>Webkönyvtárak (THE_00583_N_5_G)</nev>
+        <helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-20 16:30</kezdet>
+        <veg>2024-02-20 18:20</veg>
+        <nev>Idegen nyelv II. (THE_00052_N_0_A)</nev>
+        <helyszin>Teológia Szemere utcai földszint nagy terem(Teologia_Szemere_Foldszint_2-es_terem)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-21 08:00</kezdet>
+        <veg>2024-02-21 09:35</veg>
+        <nev>Idegen nyelv II. (THE_00052_N_0_A)</nev>
+        <helyszin>Teológia Szemere utcai földszint nagy terem(Teologia_Szemere_Foldszint_2-es_terem)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-22 12:15</kezdet>
+        <veg>2024-02-22 13:45</veg>
+        <nev>Komputergrafika és képfeldolgozás (THE_00584_N_5_K)</nev>
+        <helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-22 16:00</kezdet>
+        <veg>2024-02-22 17:30</veg>
+        <nev>Komputergrafika és képfeldolgozás (THE_00584_N_5_K)</nev>
+        <helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+    </ora>
+    <ora>
+        <kezdet>2024-02-23 13:30</kezdet>
+        <veg>2024-02-23 17:30</veg>
+        <nev>Kalkulus (THE_00562_N_3_K)</nev>
+    </ora>
+    <ora>
+        <kezdet>2024-02-24 09:00</kezdet>
+        <veg>2024-02-24 12:55</veg>
+        <nev>Operációs rendszerek (THE_00571_N_5_K)</nev>
+    </ora>
+</PK_orarend>
