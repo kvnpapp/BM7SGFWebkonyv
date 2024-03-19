@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Űrlap</title>
+</head>
+<body>
+
+<form id="urlap" name="urlap" action="form_submission.php" method="POST">
+    <label for="name">Név:</label>
+    <input type="text" id="name" name="name" required pattern="[A-Za-záéöüőúű]{5,30}" autofocus autocomplete="off" required><br><br>
+
+    <label for="pin">PIN kód:</label>
+    <input type="password" id="pin" name="pin" autocomplete="off" required pattern="\d{4}" title="Négyjegyű szám"><br><br>
+
+    <label for="fruit1">Kedvenc gyümölcs:</label>
+    <input list="fruits" id="fruit1" name="fruit1" required><br><br>
+    <datalist id="fruits">
+        <option value="eper">Földieper</option>
+        <option value="görögdinnye">
+        <option value="cseresznye">
+    </datalist>
+
+	<label for="age">Életkor:</label>
+	<input list="age-list" id="age" name="age">
+	<datalist id="age-list"></datalist>
+	<br><br>
+
+	<label for="shoe-size">Lábméret:</label>
+	<input list="shoe-size-list" id="shoe-size" name="shoe-size">
+	<datalist id="shoe-size-list"></datalist>
+	<br><br>
+
+	<script>
+	// Életkor lista feltöltése
+	var ageList = document.getElementById("age-list");
+	for (var i = 18; i <= 100; i++) {
+		var option = document.createElement("option");
+		option.value = i;
+		ageList.appendChild(option);
+	}
+
+	// Lábméret lista feltöltése
+	var shoeSizeList = document.getElementById("shoe-size-list");
+	for (var i = 25; i <= 50; i += 0.5) {
+		var option = document.createElement("option");
+		option.value = i.toFixed(1);
+		shoeSizeList.appendChild(option);
+	}
+	</script>
+
+
+
+    <label for="confidence">Önbizalom:</label>
+    <input type="range" id="confidence" name="confidence" min="0" max="100" value="50" step="1"><br><br>
+
+    <input type="submit" value="Küldés" form="urlap" formaction="form_submission.php" formmethod="POST">
+</form>
+
+</body>
+</html>
