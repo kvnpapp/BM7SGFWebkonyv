@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Név módosítása és megjelenítése</title>
+</head>
+<body>
+  <script>
+    const data = {
+      "name": "John Doe",
+      "zipcode": 12345,
+      "city": "Pécs",
+      "university": "PTE",
+      "birth": "1990-01-01"
+    };
+
+    // Módosítsuk a név formátumát, például nagybetűssé alakítva
+    const modifiedName = data.name.toUpperCase();
+    
+    // Jelenítsük meg a módosított nevet
+    document.write(modifiedName);
+  </script>
+</body>
+</html>

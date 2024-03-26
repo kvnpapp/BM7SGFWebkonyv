@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informatikai könyvek</title>
+</head>
+<body>
+    <h1>Informatikai könyvek</h1>
+
+    <script>
+        // JSON objektum létrehozása
+        var BM7SGF = [
+            {
+                "title": "Java XML and JSON",
+                "price": 0
+            },
+            {
+                "title": "JavaScript to JSON",
+                "price": 20
+            },
+            {
+                "title": "Scala for the impatient",
+                "price": 1000
+            },
+            {
+                "title": "Scala in Depth",
+                "price": 1300
+            }
+        ];
+
+        // Táblázat létrehozása és feltöltése adatokkal
+        var table = "<table border='1'>";
+        table += "<tr><th>Cím</th><th>Ár</th></tr>";
+        for (var i = 0; i < BM7SGF.length; i++) {
+            table += "<tr>";
+            table += "<td>" + BM7SGF[i].title + "</td>";
+            table += "<td>" + BM7SGF[i].price + "</td>";
+            table += "</tr>";
+        }
+        table += "</table>";
+
+        // Táblázat hozzáadása a HTML oldalhoz
+        document.body.innerHTML += table;
+    </script>
+</body>
+</html>

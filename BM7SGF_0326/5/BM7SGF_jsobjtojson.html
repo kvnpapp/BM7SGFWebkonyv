@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS objektumot konvertálja JSON karakterlánccá</title>
+</head>
+<body>
+  <script>
+    const adatok = {
+      név: "John Doe",
+      irányítószám: 12345,
+      város: "Pécs",
+      egyetem: "PTE"
+    };
+
+    const jsonAdatok = JSON.stringify(adatok);
+    document.write(jsonAdatok);
+  </script>
+</body>
+</html>

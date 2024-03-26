@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Text konvertálása JS objektummá</title>
+</head>
+<body>
+    <h1>JSON Text konvertálása JavaScript objektummá</h1>
+
+    <script>
+        // JSON Text
+        var jsonText = '{"név": "John Doe", "irányitószám": 12345, "város": "Pécs", "egyetem": "PTE"}';
+
+        // JSON Text konvertálása JavaScript objektummá
+        var jsonObj = JSON.parse(jsonText);
+
+        // Objektum adatainak megjelenítése a böngészőben
+        document.write("<p>Név: " + jsonObj.név + "</p>");
+        document.write("<p>Irányítószám: " + jsonObj.irányitószám + "</p>");
+        document.write("<p>Város: " + jsonObj.város + "</p>");
+        document.write("<p>Egyetem: " + jsonObj.egyetem + "</p>");
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON megvalósítása - JavaScript</title>
+</head>
+<body>
+    <h1>Könyvek adatai</h1>
+    <div id="konyvek"></div>
+
+    <script>
+        fetch('BM7SGF_konyv.json')
+            .then(response => response.json())
+            .then(data => {
+                let konyvekDiv = document.getElementById('konyvek');
+                data.konyvek.forEach(konyv => {
+                    konyvekDiv.innerHTML += `<p><strong>Cím:</strong> ${konyv.cim}</p>`;
+                    konyvekDiv.innerHTML += `<p><strong>Szerző:</strong> ${konyv.szerzo}</p>`;
+                    konyvekDiv.innerHTML += `<p><strong>Kiadás éve:</strong> ${konyv.kiadas_eve}</p>`;
+                    konyvekDiv.innerHTML += `<hr>`;
+                });
+            })
+            .catch(error => console.error('Hiba történt:', error));
+    </script>
+</body>
+</html>
