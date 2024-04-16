@@ -5,9 +5,10 @@
 			<kezdet>10:00</kezdet>
 			<veg>13:45</veg>
 		</idopont>
-		<nev>Valószínűségszámítás és statisztika (THE_00566_N_5_K)</nev>
-		<helyszin>Teológia Szemere utcai bejárat földszint nagy terem(Teologia_Szemere_1/B)</helyszin>
+		<kurzus>Valószínűségszámítás és statisztika</kurzus>
+		<helyszin>Teologia Szemere 1/B</helyszin>
 		<oktato>Dr. Földvári Attila József</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -16,9 +17,10 @@
 			<kezdet>12:15</kezdet>
 			<veg>13:45</veg>
 		</idopont>
-		<nev>Webkönyvtárak (THE_00583_N_5_G)</nev>
-		<helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+		<kurzus>Webkönyvtárak</kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
 		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -27,9 +29,10 @@
 			<kezdet>16:00</kezdet>
 			<veg>17:30</veg>
 		</idopont>
-		<nev>Webkönyvtárak (THE_00583_N_5_G)</nev>
-		<helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+		<kurzus>Webkönyvtárak </kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
 		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -38,9 +41,10 @@
 			<kezdet>16:30</kezdet>
 			<veg>18:20</veg>
 		</idopont>
-		<nev>Idegen nyelv II. (THE_00052_N_0_A)</nev>
-		<helyszin>Teológia Szemere utcai földszint nagy terem(Teologia_Szemere_Foldszint_2-es_terem)</helyszin>
+		<kurzus>Idegen nyelv II. </kurzus>
+		<helyszin>Teologia Szemere Foldszint 2-es terem</helyszin>
 		<oktato>Dr. Egey Emese</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -49,9 +53,10 @@
 			<kezdet>12:00</kezdet>
 			<veg>15:25</veg>
 		</idopont>
-		<nev>Alkalmazások fejlesztése projekt labor II. (THE_00573_N_3_G)</nev>
+		<kurzus>Alkalmazások fejlesztése projekt labor II.</kurzus>
 		<helyszin></helyszin>
 		<oktato>Perlaki Attila</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -60,9 +65,10 @@
 			<kezdet>12:00</kezdet>
 			<veg>15:25</veg>
 		</idopont>
-		<nev>Képesség- és személyiségfejlesztés (THE_00058_N_5_G)</nev>
-		<helyszin>Teológia Szemere utcai bejárat földszint nagy terem(Teologia_Szemere_1/B)</helyszin>
+		<kurzus>Képesség- és személyiségfejlesztés</kurzus>
+		<helyszin>Teologia Szemere 1/B</helyszin>
 		<oktato>Dr. Király Lajos</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -71,9 +77,10 @@
 			<kezdet>12:15</kezdet>
 			<veg>13:45</veg>
 		</idopont>
-		<nev>Komputergrafika és képfeldolgozás (THE_00584_N_5_K)</nev>
-		<helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+		<kurzus>Komputergrafika és képfeldolgozás</kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
 		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -82,9 +89,10 @@
 			<kezdet>16:00</kezdet>
 			<veg>17:30</veg>
 		</idopont>
-		<nev>Komputergrafika és képfeldolgozás (THE_00584_N_5_K)</nev>
-		<helyszin>Teológia Szemere utcai bejárat földszint kis terem(Teologia_Szemere_1/A)</helyszin>
+		<kurzus>Komputergrafika és képfeldolgozás</kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
 		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -93,9 +101,10 @@
 			<kezdet>8:00</kezdet>
 			<veg>9:35</veg>
 		</idopont>
-		<nev>Tanítsunk Magyarországért I. (THE_00120_N_2_G)</nev>
+		<kurzus>Tanítsunk Magyarországért I.</kurzus>
 		<helyszin></helyszin>
 		<oktato>Csatlósné Komáromi Katalin</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -104,9 +113,10 @@
 			<kezdet>13:30</kezdet>
 			<veg>17:30</veg>
 		</idopont>
-		<nev>Operációs rendszerek (THE_00571_N_5_K)</nev>
+		<kurzus>Operációs rendszerek</kurzus>
 		<helyszin></helyszin>
 		<oktato>Janics Tamás</oktato>
+		<szak>PTI</szak>
 	</ora>
 
 	<ora>
@@ -115,8 +125,9 @@
 			<kezdet>9:00</kezdet>
 			<veg>12:55</veg>
 		</idopont>
-		<nev>Alkalmazások fejlesztése projekt labor II. (THE_00573_N_3_G)</nev>
+		<kurzus>Alkalmazások fejlesztése projekt labor II.</kurzus>
 		<helyszin></helyszin>
 		<oktato>Perlaki Attila</oktato>
+		<szak>PTI</szak>
 	</ora>
 </PK_orarend>
