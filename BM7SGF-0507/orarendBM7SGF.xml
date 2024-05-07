@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PK_orarend>
+	<ora id="01" type="Gyakorlat">
+		<idopont>
+			<nap>hétfő</nap>
+			<kezdet>10:00</kezdet>
+			<veg>13:45</veg>
+		</idopont>
+		<kurzus>Valószínűségszámítás és statisztika</kurzus>
+		<helyszin>Teologia Szemere 1/B</helyszin>
+		<oktato>Dr. Földvári Attila József</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="02" type="Előadás">
+		<idopont>
+			<nap>kedd</nap>
+			<kezdet>12:15</kezdet>
+			<veg>13:45</veg>
+		</idopont>
+		<kurzus>Webkönyvtárak</kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="03" type="Gyakorlat">
+		<idopont>
+			<nap>kedd</nap>
+			<kezdet>16:00</kezdet>
+			<veg>17:30</veg>
+		</idopont>
+		<kurzus>Webkönyvtárak </kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="04" type="Gyakorlat">
+		<idopont>
+			<nap>kedd</nap>
+			<kezdet>16:30</kezdet>
+			<veg>18:20</veg>
+		</idopont>
+		<kurzus>Idegen nyelv II. </kurzus>
+		<helyszin>Teologia Szemere Foldszint 2-es terem</helyszin>
+		<oktato>Dr. Egey Emese</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="05" type="Gyakorlat">
+		<idopont>
+			<nap>szerda</nap>
+			<kezdet>12:00</kezdet>
+			<veg>15:25</veg>
+		</idopont>
+		<kurzus>Alkalmazások fejlesztése projekt labor II.</kurzus>
+		<helyszin>Online</helyszin>
+		<oktato>Perlaki Attila</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="06" type="Előadás">
+		<idopont>
+			<nap>csütörtök</nap>
+			<kezdet>12:00</kezdet>
+			<veg>15:25</veg>
+		</idopont>
+		<kurzus>Képesség- és személyiségfejlesztés</kurzus>
+		<helyszin>Teologia Szemere 1/B</helyszin>
+		<oktato>Dr. Király Lajos</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="07" type="Előadás">
+		<idopont>
+			<nap>csütörtök</nap>
+			<kezdet>12:15</kezdet>
+			<veg>13:45</veg>
+		</idopont>
+		<kurzus>Komputergrafika és képfeldolgozás</kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="08" type="Gyakorlat">
+		<idopont>
+			<nap>csütörtök</nap>
+			<kezdet>16:00</kezdet>
+			<veg>17:30</veg>
+		</idopont>
+		<kurzus>Komputergrafika és képfeldolgozás</kurzus>
+		<helyszin>Teologia Szemere 1/A</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="09" type="Előadás">
+		<idopont>
+			<nap>péntek</nap>
+			<kezdet>8:00</kezdet>
+			<veg>9:35</veg>
+		</idopont>
+		<kurzus>Tanítsunk Magyarországért I.</kurzus>
+		<helyszin></helyszin>
+		<oktato>Csatlósné Komáromi Katalin</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="10" type="Gyakorlat">
+		<idopont>
+			<nap>péntek</nap>
+			<kezdet>13:30</kezdet>
+			<veg>17:30</veg>
+		</idopont>
+		<kurzus>Operációs rendszerek</kurzus>
+		<helyszin></helyszin>
+		<oktato>Janics Tamás</oktato>
+		<szak>PTI</szak>
+	</ora>
+
+	<ora id="11" type="Gyakorlat">
+		<idopont>
+			<nap>szombat</nap>
+			<kezdet>9:00</kezdet>
+			<veg>12:55</veg>
+		</idopont>
+		<kurzus>Alkalmazások fejlesztése projekt labor II.</kurzus>
+		<helyszin>Online</helyszin>
+		<oktato>Perlaki Attila</oktato>
+		<szak>PTI</szak>
+	</ora>
+</PK_orarend>
