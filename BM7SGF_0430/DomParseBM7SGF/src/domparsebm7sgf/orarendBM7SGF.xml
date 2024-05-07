@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <PK_orarend>
 	<ora id="01" type="Gyakorlat">
 		<idopont>
@@ -23,8 +25,8 @@
 		<szak>PTI</szak>
 	</ora>
 
-	<ora>
-		<idopont id="03" type="Gyakorlat">
+	<ora id="03" type="Gyakorlat">
+		<idopont>
 			<nap>kedd</nap>
 			<kezdet>16:00</kezdet>
 			<veg>17:30</veg>

@@ -1,0 +1,17 @@
+{
+  "PK_orarend": {
+    "ora": [
+      {
+        "idopont": {
+          "nap": "kedd",
+          "kezdet": "12:15",
+          "veg": "13:45"
+        },
+        "kurzus": "Webkönyvtárak",
+        "helyszin": "Teologia Szemere 1/A",
+        "oktato": "Dr. Bednarik László",
+        "szak": "PTI"
+      }
+    ]
+  }
+}
