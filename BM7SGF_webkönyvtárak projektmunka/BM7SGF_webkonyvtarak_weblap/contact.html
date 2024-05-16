@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kapcsolat</title>
+    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="sidenav.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="sidenav.js"></script>
+    <script src="scripts.js"></script>
+
+</head>
+
+<body>
+    <div id="sidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">Kezdőlap</a>
+        <a href="diablo.html">Diablo</a>
+        <a href="lol.html">League of Legends</a>
+        <a href="fifa.html">FIFA</a>
+        <a href="terraria.html">Terraria</a>
+        <a href="contact.html">Kapcsolat</a>
+    </div>
+    <span class="menu-icon" onclick="openNav()">&#9776; Menü</span>
+
+    <header>
+        <h1>Kapcsolat</h1>
+    </header>
+    <main>
+        <h2>Írjon nekünk!</h2>
+        <form id="contact-form" action="submit_form.php" method="post">
+            <label for="name">Név:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Üzenet:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Küldés</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 Kedvenc videojátékaim</p>
+    </footer>
+</body>
+
+</html>
