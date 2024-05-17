@@ -1,0 +1,143 @@
+{
+	"PK_orarend": {
+		"Cim": {
+		  "Irányítószám": "3950",
+		  "Város": "Sárospatak",
+		  "Utca": "Eötvös utca 7."
+		},
+		"Telefonszam": [
+		  {
+			"típus": "Vezetékes",
+			"szám": "+3647513000"
+		  },
+		  {
+			"típus": "Mobil",
+			"szám": "+36207452702"
+		  }
+		],
+	
+		"ora": [
+			{
+				"idopont": {
+					"nap": "hétfő",
+					"kezdet": "10:00",
+					"veg": "13:45"
+				},
+				"kurzus": "Valószínűségszámítás és statisztika",
+				"helyszin": "Teologia Szemere 1/B",
+				"oktato": "Dr. Földvári Attila József",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "kedd",
+					"kezdet": "12:15",
+					"veg": "13:45"
+				},
+				"kurzus": "Webkönyvtárak",
+				"helyszin": "Teologia Szemere 1/A",
+				"oktato": "Dr. Bednarik László",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "kedd",
+					"kezdet": "16:00",
+					"veg": "17:30"
+				},
+				"kurzus": "Webkönyvtárak",
+				"helyszin": "Teologia Szemere 1/A",
+				"oktato": "Dr. Bednarik László",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "kedd",
+					"kezdet": "16:30",
+					"veg": "18:20"
+				},
+				"kurzus": "Idegen nyelv II.",
+				"helyszin": "Teologia Szemere Foldszint 2-es terem",
+				"oktato": "Dr. Egey Emese",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "szerda",
+					"kezdet": "12:00",
+					"veg": "15:25"
+				},
+				"kurzus": "Alkalmazások fejlesztése projekt labor II.",
+				"helyszin": "",
+				"oktato": "Perlaki Attila",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "csütörtök",
+					"kezdet": "12:00",
+					"veg": "15:25"
+				},
+				"kurzus": "Képesség- és személyiségfejlesztés",
+				"helyszin": "Teologia Szemere 1/B",
+				"oktato": "Dr. Király Lajos",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "csütörtök",
+					"kezdet": "12:15",
+					"veg": "13:45"
+				},
+				"kurzus": "Komputergrafika és képfeldolgozás",
+				"helyszin": "Teologia Szemere 1/A",
+				"oktato": "Dr. Bednarik László",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "csütörtök",
+					"kezdet": "16:00",
+					"veg": "17:30"
+				},
+				"kurzus": "Komputergrafika és képfeldolgozás",
+				"helyszin": "Teologia Szemere 1/A",
+				"oktato": "Dr. Bednarik László",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "péntek",
+					"kezdet": "8:00",
+					"veg": "9:35"
+				},
+				"kurzus": "Tanítsunk Magyarországért I.",
+				"helyszin": "",
+				"oktato": "Csatlósné Komáromi Katalin",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "péntek",
+					"kezdet": "13:30",
+					"veg": "17:30"
+				},
+				"kurzus": "Operációs rendszerek",
+				"helyszin": "",
+				"oktato": "Janics Tamás",
+				"szak": "PTI"
+			},
+			{
+				"idopont": {
+					"nap": "szombat",
+					"kezdet": "9:00",
+					"veg": "12:55"
+				},
+				"kurzus": "Alkalmazások fejlesztése projekt labor II.",
+				"helyszin": "",
+				"oktato": "Perlaki Attila",
+				"szak": "PTI"
+			}
+		]
+	}
+}

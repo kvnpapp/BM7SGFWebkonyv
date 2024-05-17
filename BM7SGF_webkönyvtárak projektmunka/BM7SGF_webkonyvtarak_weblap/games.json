@@ -1,0 +1,6 @@
+[
+    { "name": "Diablo", "developer": "Blizzard North", "release_year": 1996 },
+    { "name": "League of Legends", "developer": "Riot Games", "release_year": 2009 },
+    { "name": "FIFA", "developer": "Electronic Arts", "release_year": 1993 },
+    { "name": "Terraria", "developer": "Re-Logic", "release_year": 2011 }
+]
